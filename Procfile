@@ -1,0 +1,1 @@
+web: gunicorn servidor_flask_pesquisador:app
